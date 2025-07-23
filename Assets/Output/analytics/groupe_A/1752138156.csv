@@ -1,0 +1,38 @@
+time,actionType,metadata
+96.63043,UserTalk,3.22
+97.94604,Point,(-12.17. 2.86. -2.95)
+100.0144,IATalk,Est-ce que tu as besoin d'aide ?
+104.5463,UserTalk,1.13
+105.1445,IATalk,La machine est ici
+118.8495,UserTalk,7.51
+121.2665,Point,(-2.37. 1.86. -12.51)
+175.7341,UserTalk,3.40
+177.5397,IATalk,Précisez quel objet blanc vous voulez
+183.9077,UserTalk,1.37
+184.6917,IATalk,Je ne vois pas d'objet blanc
+199.9965,IATalk,Si tu as du mal à trouver les éléments. n'hésite pas à me demander!
+300.0128,IATalk,As tu besoin de connaitre des informations sur les éléments? Leur couleur par exemple?
+337.5123,UserTalk,5.97
+340.3734,Point,(-12.17. 2.86. -2.95)
+341.0519,UserTalk,0.48
+354.0814,UserTalk,7.13
+356.7616,IATalk,Sur les consignes. vous avez les infos
+387.5192,UserTalk,5.47
+389.7144,Point,(-2.37. 1.86. -12.51)
+394.5757,UserTalk,2.01
+399.8526,UserTalk,1.72
+400.0143,IATalk,As tu besoin de connaitre des informations sur les éléments? Leur couleur par exemple?
+400.7565,Point,(-2.37. 1.86. -12.51)
+406.2853,UserTalk,1.20
+409.1201,UserTalk,1.03
+414.7,UserTalk,1.39
+419.0605,UserTalk,1.60
+426.9879,UserTalk,0.67
+434.8076,UserTalk,4.32
+436.8652,IATalk,Elle est rouge
+565.0441,UserTalk,4.16
+568.6133,IATalk,Il est vert
+570.6431,UserTalk,1.61
+657.0461,UserTalk,3.94
+659.3514,IATalk,Elle est rose
+857.0541,End

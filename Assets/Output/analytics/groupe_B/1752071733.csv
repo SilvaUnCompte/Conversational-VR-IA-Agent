@@ -1,0 +1,38 @@
+time,actionType,metadata
+73.1731,IATalk,Ce cube me semble trop gros pour être celui que tu cherches. Tu ne crois pas?
+100.0046,IATalk,Est-ce que tu as besoin d'aide ?
+182.6589,UserTalk,1.03
+190.2416,UserTalk,7.16
+192.7551,IATalk,Montre moi le cube dont tu parles et je t'aiderai
+200.0074,IATalk,Si tu as du mal à trouver les éléments. n'hésite pas à me demander!
+201.1887,UserTalk,4.00
+203.078,Point,(2.24. 2.88. -2.09)
+212.7895,UserTalk,4.85
+214.675,Point,(-11.22. 2.88. -3.00)
+234.0507,UserTalk,4.84
+236.0492,Point,(2.24. 2.88. -2.09)
+249.3504,UserTalk,3.70
+251.0729,Point,(2.24. 2.88. -2.09)
+286.8101,UserTalk,0.96
+300.0031,IATalk,As tu besoin de connaitre des informations sur les éléments? Leur couleur par exemple?
+337.5607,UserTalk,2.09
+346.5427,UserTalk,5.54
+348.2118,IATalk,Oui c'est le bon cube
+353.6839,UserTalk,2.96
+355.3784,IATalk,Non il n'est pas dans l'eau
+363.7938,UserTalk,3.24
+375.6815,UserTalk,2.86
+377.0287,IATalk,Oui c'est le bon emplacement
+387.5852,UserTalk,3.25
+389.3406,Point,(-14.46. 2.45. -15.37)
+562.2358,UserTalk,0.35
+571.2211,UserTalk,8.58
+573.9238,IATalk,Elle est rose
+985.8878,UserTalk,3.12
+987.6385,IATalk,Précise quel est le dernier élément
+988.3312,UserTalk,0.14
+994.6813,UserTalk,3.99
+996.3908,Point,(-2.37. 1.86. -12.51)
+1039.124,UserTalk,3.17
+1040.943,IATalk,Elle est rouge
+1178.153,End

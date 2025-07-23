@@ -1,0 +1,22 @@
+time,actionType,metadata
+99.99887,IATalk,Est-ce que tu as besoin d'aide ?
+199.9948,IATalk,Si tu as du mal à trouver les éléments. n'hésite pas à me demander!
+234.9213,UserTalk,1.63
+235.8094,IATalk,La machine est devant toi
+257.6423,UserTalk,2.74
+259.0306,IATalk,La batterie F14 est là
+300.001,IATalk,As tu besoin de connaitre des informations sur les éléments? Leur couleur par exemple?
+309.746,UserTalk,2.93
+310.9135,IATalk,La batterie F14 est rose
+399.9929,IATalk,As tu besoin de connaitre des informations sur les éléments? Leur couleur par exemple?
+593.9838,UserTalk,3.72
+595.5701,Point,(2.24. 2.88. -2.09)
+625.6266,UserTalk,2.86
+626.8511,IATalk,Le cube A59 est vert
+633.4039,UserTalk,1.78
+634.7653,IATalk,Je ne sais pas
+767.741,UserTalk,3.39
+769.3956,Point,(-2.37. 1.86. -12.51)
+774.0332,UserTalk,1.76
+775.0896,IATalk,La barre B42 est rouge
+1058.089,End
