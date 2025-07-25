@@ -24,10 +24,15 @@ Agent pédagogique virtuel : avec des animations provenant de Mixamo. Réagit à
 
 ### 2.3 Procédure
 1.	Accueil en VR par l’agent. Le groupe "Toucher Social" ressent une poignée de main via le gant haptique ; le groupe "Contrôle" reçoit seulement une salutation verbale.
+
 2.	L’agent explique son rôle et la tâche à venir.
+
 3.	Salle de test libre : l’utilisateur explore les capacités du gant et les réponses de l’agent, afin de satisfaire sa curiosité technique pour qu’elle ne vienne par biaiser l’expérience.
+
 4.	L’utilisateur signale quand il est prêt puis est guidé par l’agent vers la salle d’expérience.
+
 5.	Tâche principale : assembler une machine en suivant des instructions vagues basées sur la forme des pièces. L’utilisateur doit retrouver les bons éléments dispersés parmi d'autres objets similaires. Une interaction minimale avec l'agent est nécessaire pour réussir.
+
 6.	Une fois la tâche complétée, l’utilisateur se rend dans une dernière salle où il répond à un questionnaire utilisant l’échelle Likert (1 à 5).
 
 ### 3.	HYPOTHESES
