@@ -1,7 +1,6 @@
-# Conversational-VR-IA-Agent
 (French)
 
-## Effets du toucher social sur la perception d’un agent pédagogique en réalité virtuelle immersive
+# Effets du toucher social sur la perception d’un agent pédagogique en réalité virtuelle immersive
 Selyan Quesnot
  
 ### ABSTRACT
@@ -63,15 +62,21 @@ Questionnaire inspiré et adapté du questionnaire Likert de l’étude « Pedag
 ### 5.	RÉSULTATS PROVISOIRS
 Les premiers résultats montrent une différence significative de la durée totale nécessaire pour réaliser la tâche entre les deux groupes. En moyenne, les participants du groupe « Toucher Social » ont mis moins de temps à compléter la tâche que ceux du groupe contrôle. 
 
+
 <img width="439" height="114" alt="image" src="https://github.com/user-attachments/assets/9e32e810-0964-4eca-985a-43f55c6eff8f" />
+
 
 Cette différence de durée semble principalement s’expliquer par un démarrage plus précoce des interactions avec l’agent chez les participants du groupe « Toucher Social ». En effet, ceux-ci ont engagé une conversation ou demandé de l’aide plus rapidement après le début de la tâche que ceux du groupe contrôle. Cependant, une fois les premières interactions amorcées, les durées moyennes des interactions ainsi que le nombre total d’interactions sont restées similaires entre les deux groupes. 
 
+
 <img width="435" height="178" alt="image" src="https://github.com/user-attachments/assets/1090b4e7-5572-44a7-98a6-c05f097d109e" />
+
 
 Concernant le questionnaire post-tâche, les scores sont globalement comparables entre les deux groupes. Cependant, une différence notable émerge sur l’item « L’agent m’encourage à interagir », où le groupe contrôle a attribué une meilleure note. Cette différence pourrait s’expliquer par le fait qu’ils attendent plus longtemps avant d’interagir, ce qui déclenche plus souvent des initiatives de l’agent pour les inciter à communiquer, créant une perception plus proactive de l’agent dans ce contexte.
 
+
 <img width="435" height="287" alt="image" src="https://github.com/user-attachments/assets/3b7379ee-c22a-4dfb-ac86-06179ad3d69c" />
+
 
 
 ### 6.	CONCLUSION
@@ -83,13 +88,22 @@ Des analyses plus approfondies avec un échantillon élargi sont nécessaires po
 
 ### 7.	RÉFÉRENCES
 [1]	P. J. Stamatis, « Comunicación no verbal en las interacciones de aula: una perspectiva pedagógica sobre el contacto físico », Electron. J. Res. Educ. Psychol., vol. 9, no 3, p. 1427‑1442, 2011.
+
 [2]	S. El Hakim et D. Farsani, « From contact to connection: a comprehensive examination of affective touch in educational settings », Front. Psychol., vol. 15, p. 1230796, 2024.
+
 [3]	B. Biancardi, M. Barange, M. Vigilant, P.-L. Lefour, et L. Chaby, « Warming the Ice: The Role of Social Touch and Physical Warmth on First Impressions in Virtual Reality », in 2025 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW), IEEE, 2025, p. 1396‑1397.
+
 [4]	P. Sykownik et M. Masuch, « The experience of social touch in multi-user virtual reality », in Proceedings of the 26th ACM Symposium on Virtual Reality Software and Technology, 2020, p. 1‑11.
+
 [5]	V. Smekal et al., « Influence of haptic feedback on perception of threat and peripersonal space in social VR », IEEE Trans. Vis. Comput. Graph., 2025.
+
 [6]	M. Barange, J. Saunier, et A. Pauchet, « Pedagogical agents as team members: Impact of proactive and pedagogical behavior on the user », in Proceedings of the 16th Conference on Autonomous Agents and MultiAgent Systems, 2017, p. 791‑800.
+
 [7]	A.-S. Milcent, A. Kadri, E. Geslin, et S. RICHIR, « Les humains virtuels expressifs dans les simulateurs en santé », 2019.
+
 [8]	M. Hoppe, B. Rossmy, D. P. Neumann, S. Streuber, A. Schmidt, et T.-K. Machulla, « A human touch: Social touch increases the perceived human-likeness of agents in virtual reality », in Proceedings of the 2020 CHI conference on human factors in computing systems, 2020, p. 1‑11.
+
 [9]	P. G. Samudra, I. Min, K. S. Cortina, et K. F. Miller, « No second chance to make a first impression: The “thin-slice” effect on instructor ratings and learning outcomes in higher education », J. Educ. Meas., vol. 53, no 3, p. 313‑331, 2016.
+
 [10]	P. C. Medrano, J.-P. Jessel, et C. Sanza, « Simulation Comportementale dans les Environnements Virtuels », 2012.
 
