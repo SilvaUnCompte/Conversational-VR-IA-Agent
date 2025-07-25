@@ -2,7 +2,8 @@
 
 # Effets du toucher social sur la perception d’un agent pédagogique en réalité virtuelle immersive
 Selyan Quesnot
- 
+> https://youtu.be/gT3yHcmkORA
+
 ### ABSTRACT
 Le toucher social est un élément clé de l'interaction humaine, favorisant la proximité, la confiance et les comportements prosociaux. Cette étude explore l'effet du toucher social (sous la forme d'une poignée de main haptique), sur la perception que l’utilisateur a d'un agent éducatif en réalité virtuelle. Les participants, équipés d'un casque de réalité virtuelle, d'un gant haptique avec retour tactile et d'un contrôleur de mouvement, sont divisés en deux groupes : l'un est accueilli par l'agent par une poignée de main physique, l'autre uniquement par une salutation verbale. L'agent aide ensuite les participants dans une tâche de construction nécessitant des interactions. Nous évaluons l'effet du toucher social sur la perception de la convivialité, de la compétence et de l'utilité de l'agent, ainsi que sur la fréquence et la nature des interactions. 
 
