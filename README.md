@@ -14,12 +14,12 @@ Le toucher social est un élément fondamental de la communication non verbale. 
 
 L’émergence de la réalité virtuelle immersive et des dispositifs haptiques permet aujourd’hui de reproduire ces interactions sociales dans des environnements numériques. Des travaux récents ont montré que l’ajout d’un retour haptique à un agent virtuel, notamment via une poignée de main, améliore la première impression et réduit la distance interpersonnelle perçue [3].
 
-Il a déjà été démontrer que le toucher social peut évoquer des réactions émotionnelles variées, similaires au monde réel [4], [5] et qu’il peut humaniser un avatar virtuel [3]. Nous chercher ici si le toucher social peut aussi favoriser les interactions entre l’agent pédagogique et l’utilisateur.
+Il a déjà été démontré que le toucher social peut évoquer des réactions émotionnelles variées, similaires au monde réel [4], [5] et qu’il peut humaniser un avatar virtuel [3]. Nous cherchons ici si le toucher social peut aussi favoriser les interactions entre l’agent pédagogique et l’utilisateur.
 
 ### 2.	METHODOLOGY
 #### 2.1 Participants
 
-L’étude inclura des participants droitiers, répartis aléatoirement en deux groupes expérimentaux. Un premier groupe « Toucher Social », accueilli par l’agent avec une poignée de main haptique. Et un groupe « contrôle » qui sera saluer verbale uniquement.
+L’étude inclura des participants droitiers, répartis aléatoirement en deux groupes expérimentaux. Un premier groupe « Toucher Social », accueilli par l’agent avec une poignée de main haptique. Et un groupe « contrôle » qui sera salué verbalement uniquement.
 
 #### 2.2 Matériel
 Casque de Réalité Virtuelle (VR) Oculus Quest 3, avec manette gauche pour la locomotion.
