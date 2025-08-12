@@ -1,4 +1,160 @@
-(French)
+(French below)
+
+<img width="100" height="100" alt="1f1ec-1f1e7" src="https://github.com/user-attachments/assets/43249efe-ccde-46e3-af58-e584f5555f10" />
+
+# Effects of Social Touch on the Perception of a Pedagogical Agent in Immersive Virtual Reality
+Selyan Quesnot
+> https://youtu.be/gT3yHcmkORA
+
+### ABSTRACT
+Social touch is a key element in human interaction, fostering closeness, trust, and prosocial behavior. This study explores the effect of social touch (in the form of a haptic handshake) on the user's perception of an educational agent in virtual reality. Participants, equipped with a VR headset, a haptic glove with tactile feedback, and a motion controller, were divided into two groups: one group was greeted by the agent with a physical handshake, the other with a verbal greeting only. The agent then assisted the participants with a construction task requiring interaction. We evaluate the effect of social touch on perceptions of the agent’s friendliness, competence, and helpfulness, as well as on the frequency and nature of interactions.
+
+**Keywords:** Social Touch, Immersive Virtual Environment, Pedagogical Agent.
+
+### 1.	INTRODUCTION
+Social touch is a fundamental aspect of nonverbal communication. Even a simple handshake can influence interpersonal perception, increasing trust, likability, and cooperation. These effects—often referred to as the Midas touch—have been observed in various settings, from commerce to education [1], [2]. Cultural metaphors like "a warm person" reflect the implicit link between physical warmth and emotional warmth.
+
+The rise of immersive virtual reality and haptic devices now enables the reproduction of such social interactions in digital environments. Recent studies have shown that adding haptic feedback to a virtual agent, particularly via a handshake, improves first impressions and reduces perceived interpersonal distance [3].
+
+It has also been demonstrated that social touch can evoke varied emotional responses similar to those in the real world [4], [5], and can humanize a virtual avatar [3]. This study investigates whether social touch can also enhance interactions between a pedagogical agent and the user.
+
+### 2.	METHODOLOGY
+#### 2.1 Participants
+
+The study will include right-handed participants, randomly divided into two experimental groups: a "Social Touch" group greeted by the agent with a haptic handshake, and a "Control" group greeted only verbally.
+
+#### 2.2 Equipment
+**VR Headset:** Oculus Quest 3, with left controller for locomotion
+
+**Haptic Glove:** TouchDIVER (WEART) on the right hand
+
+**Virtual Environment (Unity):** includes a welcome room, test room, task room, and questionnaire room
+
+**Pedagogical Agent:** animated using Mixamo; reacts to user voice, can respond, move, point to objects, and has limited environmental awareness to provide contextual advice
+
+#### 2.3 Procedure
+1. The agent welcomes the user in VR. The "Social Touch" group experiences a handshake via the haptic glove; the "Control" group receives only a verbal greeting.
+
+2. The agent explains its role and the upcoming task.
+
+3. Free test room: The user explores the glove’s capabilities and the agent’s responses to satisfy technical curiosity and avoid biasing the main experience.
+
+4. When ready, the user is guided to the main experience room.
+
+5. Main task: Assemble a machine using vaguely described instructions based on object shapes. The correct components are scattered among similar items. A minimal level of interaction with the agent is required to succeed.
+
+6. Upon completion, the user proceeds to a final room to complete a questionnaire using a 5-point Likert scale.
+
+### 3.	HYPOTHESES
+H1: Social touch improves perception of the agent.
+
+•	H1a: The agent is perceived as more friendly.
+
+•	H1b: The agent is perceived as more competent and helpful.
+
+•	H2: Social touch increases interaction.
+
+•	H2a: The user speaks more often to the agent.
+
+•	H2b: Interactions last longer.
+
+•	H2c: The user solicits the agent more (questions, movement, pointing).
+
+•	H2d: The user interacts earlier and more consistently throughout the experience.
+
+### 4.	DATA COLLECTED
+- Total task duration per participant
+
+- Total number of user-initiated interactions
+
+- Average interaction duration
+
+- Breakdown of interaction types:
+
+   - Questions asked
+   
+   - Requests for movement
+   
+   - Requests for pointing
+
+- Temporal distribution of interactions:
+      
+   - Frequency per time segment after task start
+   
+   - Frequency per time segment as a % of total task time
+
+### Post-task Questionnaire (rated 1–5):
+•	The assembly task was easy
+
+•	The environment was immersive
+
+•	The agent was friendly
+
+•	The agent was competent
+
+•	The agent helped me complete the task
+
+•	The agent encouraged me to interact
+
+•	The agent motivated me
+
+*Questionnaire inspired and adapted from the Likert scale in the study “Pedagogical Agents as Team Members: Impact of Proactive and Pedagogical Behavior on the User” [6]*
+
+### 5.	PRELIMINARY RESULTS
+Initial results show a significant difference in the time taken to complete the task between the two groups. On average, participants in the "Social Touch" group completed the task faster than those in the control group.
+
+
+<img width="439" height="114" alt="image" src="https://github.com/user-attachments/assets/9e32e810-0964-4eca-985a-43f55c6eff8f" />
+
+
+This time difference appears to be primarily due to earlier engagement with the agent by participants in the "Social Touch" group. These participants initiated conversations or asked for help sooner after the task began compared to the control group. However, once interaction began, the average duration and number of interactions were similar across both groups.
+
+
+<img width="435" height="178" alt="image" src="https://github.com/user-attachments/assets/1090b4e7-5572-44a7-98a6-c05f097d109e" />
+
+
+Regarding the post-task questionnaire, scores were generally similar between the groups. However, a notable difference emerged on the item “The agent encouraged me to interact,” where the control group gave a higher rating. This might be explained by the fact that these participants waited longer to interact, prompting the agent to take more initiative, which created a perception of greater proactivity.
+
+
+<img width="435" height="287" alt="image" src="https://github.com/user-attachments/assets/3b7379ee-c22a-4dfb-ac86-06179ad3d69c" />
+
+
+
+### 6.	CONCLUSION
+This initial study highlights the impact of haptic social touch in educational virtual reality environments. A simple simulated handshake at the start of an interaction can prompt faster engagement. However, users did not perceive the agent as more friendly or more competent compared to the control group.
+
+Although subjective evaluations of the agent were similar across groups, the timing of interactions reveals subtle but meaningful effects of social touch in the design of pedagogical agents. These results support integrating haptic devices in immersive environments to improve interaction flow and encourage user engagement from the very first moments of an educational experience.
+
+Further analysis with a larger sample is needed to confirm these effects and explore other dimensions, such as emotional response, memory retention, or overall satisfaction.
+
+
+### 7.	REFERENCES
+[1]	P. J. Stamatis, « Comunicación no verbal en las interacciones de aula: una perspectiva pedagógica sobre el contacto físico », Electron. J. Res. Educ. Psychol., vol. 9, no 3, p. 1427‑1442, 2011.
+
+[2]	S. El Hakim et D. Farsani, « From contact to connection: a comprehensive examination of affective touch in educational settings », Front. Psychol., vol. 15, p. 1230796, 2024.
+
+[3]	B. Biancardi, M. Barange, M. Vigilant, P.-L. Lefour, et L. Chaby, « Warming the Ice: The Role of Social Touch and Physical Warmth on First Impressions in Virtual Reality », in 2025 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW), IEEE, 2025, p. 1396‑1397.
+
+[4]	P. Sykownik et M. Masuch, « The experience of social touch in multi-user virtual reality », in Proceedings of the 26th ACM Symposium on Virtual Reality Software and Technology, 2020, p. 1‑11.
+
+[5]	V. Smekal et al., « Influence of haptic feedback on perception of threat and peripersonal space in social VR », IEEE Trans. Vis. Comput. Graph., 2025.
+
+[6]	M. Barange, J. Saunier, et A. Pauchet, « Pedagogical agents as team members: Impact of proactive and pedagogical behavior on the user », in Proceedings of the 16th Conference on Autonomous Agents and MultiAgent Systems, 2017, p. 791‑800.
+
+[7]	A.-S. Milcent, A. Kadri, E. Geslin, et S. RICHIR, « Les humains virtuels expressifs dans les simulateurs en santé », 2019.
+
+[8]	M. Hoppe, B. Rossmy, D. P. Neumann, S. Streuber, A. Schmidt, et T.-K. Machulla, « A human touch: Social touch increases the perceived human-likeness of agents in virtual reality », in Proceedings of the 2020 CHI conference on human factors in computing systems, 2020, p. 1‑11.
+
+[9]	P. G. Samudra, I. Min, K. S. Cortina, et K. F. Miller, « No second chance to make a first impression: The “thin-slice” effect on instructor ratings and learning outcomes in higher education », J. Educ. Meas., vol. 53, no 3, p. 313‑331, 2016.
+
+[10]	P. C. Medrano, J.-P. Jessel, et C. Sanza, « Simulation Comportementale dans les Environnements Virtuels », 2012.
+
+
+<hr>
+
+
+<img width="100" height="100" alt="1f1eb-1f1f7" src="https://github.com/user-attachments/assets/0276b823-9621-40b5-baa6-c7cdeea57b8a" />
+
 
 # Effets du toucher social sur la perception d’un agent pédagogique en réalité virtuelle immersive
 Selyan Quesnot
