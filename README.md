@@ -98,7 +98,7 @@ H1: Social touch improves perception of the agent.
 
 •	The agent motivated me
 
-*Questionnaire inspired and adapted from the Likert scale in the study “Pedagogical Agents as Team Members: Impact of Proactive and Pedagogical Behavior on the User” [6]*
+*Questionnaire inspired and adapted from the Likert scale in the study "Pedagogical Agents as Team Members: Impact of Proactive and Pedagogical Behavior on the User" [6]*
 
 ### 5.	PRELIMINARY RESULTS
 Initial results show a significant difference in the time taken to complete the task between the two groups. On average, participants in the "Social Touch" group completed the task faster than those in the control group.
@@ -113,7 +113,7 @@ This time difference appears to be primarily due to earlier engagement with the 
 <img width="435" height="178" alt="image" src="https://github.com/user-attachments/assets/1090b4e7-5572-44a7-98a6-c05f097d109e" />
 
 
-Regarding the post-task questionnaire, scores were generally similar between the groups. However, a notable difference emerged on the item “The agent encouraged me to interact,” where the control group gave a higher rating. This might be explained by the fact that these participants waited longer to interact, prompting the agent to take more initiative, which created a perception of greater proactivity.
+Regarding the post-task questionnaire, scores were generally similar between the groups. However, a notable difference emerged on the item "The agent encouraged me to interact", where the control group gave a higher rating. This might be explained by the fact that these participants waited longer to interact, prompting the agent to take more initiative, which created a perception of greater proactivity.
 
 
 <img width="435" height="287" alt="image" src="https://github.com/user-attachments/assets/3b7379ee-c22a-4dfb-ac86-06179ad3d69c" />
@@ -145,7 +145,7 @@ Further analysis with a larger sample is needed to confirm these effects and exp
 
 [8]	M. Hoppe, B. Rossmy, D. P. Neumann, S. Streuber, A. Schmidt, et T.-K. Machulla, « A human touch: Social touch increases the perceived human-likeness of agents in virtual reality », in Proceedings of the 2020 CHI conference on human factors in computing systems, 2020, p. 1‑11.
 
-[9]	P. G. Samudra, I. Min, K. S. Cortina, et K. F. Miller, « No second chance to make a first impression: The “thin-slice” effect on instructor ratings and learning outcomes in higher education », J. Educ. Meas., vol. 53, no 3, p. 313‑331, 2016.
+[9]	P. G. Samudra, I. Min, K. S. Cortina, et K. F. Miller, « No second chance to make a first impression: The "thin-slice" effect on instructor ratings and learning outcomes in higher education », J. Educ. Meas., vol. 53, no 3, p. 313‑331, 2016.
 
 [10]	P. C. Medrano, J.-P. Jessel, et C. Sanza, « Simulation Comportementale dans les Environnements Virtuels », 2012.
 
