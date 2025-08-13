@@ -12,7 +12,7 @@ Social touch is a key element in human interaction, fostering closeness, trust, 
 **Keywords:** Social Touch, Immersive Virtual Environment, Pedagogical Agent.
 
 ### 1.	INTRODUCTION
-Social touch is a fundamental aspect of nonverbal communication. Even a simple handshake can influence interpersonal perception, increasing trust, likability, and cooperation. These effects—often referred to as the Midas touch—have been observed in various settings, from commerce to education [1], [2]. Cultural metaphors like "a warm person" reflect the implicit link between physical warmth and emotional warmth.
+Social touch is a fundamental aspect of nonverbal communication. Even a simple handshake can influence interpersonal perception, increasing trust, likability, and cooperation. These effects (often referred to as the Midas touch) have been observed in various settings, from commerce to education [1], [2]. Cultural metaphors like "a warm person" reflect the implicit link between physical warmth and emotional warmth.
 
 The rise of immersive virtual reality and haptic devices now enables the reproduction of such social interactions in digital environments. Recent studies have shown that adding haptic feedback to a virtual agent, particularly via a handshake, improves first impressions and reduces perceived interpersonal distance [3].
 
